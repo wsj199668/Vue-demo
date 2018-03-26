@@ -3,16 +3,14 @@
 # 一个使用vuejs搭建的售卖平台demo
 
 
-
-# 依赖下载
+#依赖下载
 npm install
 
-# 运行
+#运行
 npm run dev
 
-# 打包
+#打包 
 npm run build
 
-# 预览
- https://wsj199668.github.io/Vue-demo/
+
 
