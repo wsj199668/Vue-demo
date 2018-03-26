@@ -4,12 +4,14 @@
 
 
 
-#依赖下载
+# 依赖下载
 npm install
 
-#运行
+# 运行
 npm run dev
 
 # 打包
 npm run build
-```
+
+# 预览
+
